@@ -1,4 +1,3 @@
-
 int main() {
     char inputString[105]; 
     scanf("%[^\n]", inputString); 
