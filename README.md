@@ -1,2 +1,2 @@
 # Hackerrank
-Please Don't Copy the Code, just keep it as a guidance
+This repository I created so that aspirants can see and correct their mistakes while solving in hackerrank. 
