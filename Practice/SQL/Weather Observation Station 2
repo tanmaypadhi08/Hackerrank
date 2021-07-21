@@ -1,0 +1,1 @@
+SELECT CAST(SUM(LAT_N) as DECIMAL(12,2)) as lat, CAST(SUM(LONG_W) as DECIMAL(12,2)) as lon FROM Station;
